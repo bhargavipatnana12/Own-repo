@@ -1,0 +1,7 @@
+first download node js v 12.4.0
+then open cmd and type the following
+node -v
+npm install -g typescript
+tsc -v
+npm install -g @angular/cli
+ng v
